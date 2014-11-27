@@ -1,0 +1,167 @@
+United as one, divided by zero
+I really like this picture because when I saw it I recognized it immediately.
+When the matrix came out, I was just developing the ability to think
+philosophically and I identified with Neo as probably everybody did, but I
+didn't realize that 15 years later the dominent populist force would actually
+be the archetype of the agent.
+
+so who am i
+Maybe the yongest of the old cypherpunks, I was just a little bit too young
+to be a cypherpunk but just a little bit too old to be one of the Web Kids.
+
+I was there during the first crypto war but it wasn't until later that I
+understood the significance of what was going on.
+
+I've developed an interest in software and infosec, investigating conspiracy
+and corruption, law and magic and for me, magic is really just anything that's
+both *credible* and causes problems for the theories we call physics.
+
+What's interesting is it doesn't matter much which direction you start from,
+you can start by looking at how to break software or reading over Stanley Meyer's
+patents or how the NSA collects information or trying to figure what really
+happened on nine eleven, wherever you start, it's the same rabbit hole.
+
+You start out thinking you're going to get to the bottom of this but as you
+encounter more and more information which is both compelling and contradictory,
+it creates an increasing cognitive dissodance which if you follow through then
+you have to admit that you really can't be sure of ... anything. And by can't
+be sure I mean you really don't know. And that leaves you at the bottom right
+and you have to be careful when you're in polite conversation not to say
+something like "there is a .1% chance this laptop has clandestine malware and
+a 99% chance that it has hardware level backdoors which are accessable to anyone
+on the internet." because that kind of thing just makes people uncomfortable.
+
+Now that I've given you a rough picture of the last 10 years of my life, lets
+continue the topic.
+
+Welcome to the cypherdrome
+basically the crypto-war has been won, whether we have any hand in actually
+winning it is debatable, I think Richard Stallman should get the most credit
+but at any rate, the stuff of fiction in the 80's an 90's is real.
+You can become completely anonymous on the net, and yes there's a little splat
+there because every time someone really manages to piss off the FBI, they end
+up in jail. The story is always that the technology is sound, blah blah blah
+but anyway until like silkroad 2 or 3 or whatever manages to stay up for a
+significant amount of time, for me that little astricks is going to stay.
+But it's not a big deal, unless you're the biggest fish in the pond, you are
+anonymous.
+Anonymous money and anonymous markets, it's pretty wild what we're experiencing
+right now, for the first time you can actually get good quality drugs without
+having deep connections. There are supposedly weapons, there are notibly not
+really any serious assasination markets but that's not because of lack of
+technology, it's a human issue that people have so far rejected them.
+Anonymity is Freedom
+
+
+But it's also isolation. The picture of the tanks seemed fitting because you
+can't see anyone around you, when you're anonymous you really have no social
+network, certainly nobody who is going to rush to your defense because they
+need to protect their own asses, and if the NSA can see what you're doing,
+the tank is transparent which is really the worst possible situation.
+In the words of the late Dr Thompson, In a closed society where everyone's
+guilty, the only crime is getting caught.
+The FBI has the cheat codes, they get infinite tries and all weapons, and you
+have one life.
+This scenario lends itself to a totally centralized world where everyone is
+managed individually through blackmail and everybody thinks they're the only
+one.
+
+But when you look back at what this technology was built for, it was built
+for the Neuromancer, the Neo, the individual Cowboy resisting an overwelming
+totalitarian government and what is striking is just how insignificant that
+archetype has proven to be.
+
+The archetype which ended up having significance is the mask, the ghost of
+Guy Fawkes, and when you put on the mask, the fact that the NSA may know who
+you are ceases to be relevant because who you are ceases to be relevant.
+The mask is really an excellent brand under which to do activism because
+there will never be an honest headline reading "FBI arrests Anonymous". They
+can go after you but it does them very little good because as soon as you are
+arrested you go back to being who you were before you dawned the mask and guy
+fawkes slips away.
+
+To recap the technologies which were mostly developed by the cypherpunk
+community are what I'll call 'first wave' technologies.
+
+Privacy was highly valued, anonymity, p2p technologies which allow anyone
+to connect and become part of the system. This generally implies a lot of
+trust. We've developed some pretty amazing solutions for reducing trust but
+in these systems we end up trusting everyone equally. This by the way is
+highly vulnerable to infiltration, which has been one of the most common
+ways that the US Government has shut down organizations which it didn't like.
+It's always the same story, you send a few infiltrators who identify the
+leaders, convince them to do something stupid and arrest them. Or you spread
+lies and disinformation causing drama amongst the members of the group. It's
+been done over and over again and 20th century activist organizations had
+just no effective defense against this.
+
+The second wave, as I call it, is what gave rise to Guy Fawkes. In the second
+wave we don't keep secrets so hirearchy is emergent and temporary. Going after
+the leaders has little effect.
+
+We're seeing technologies taken from the first wave to reduce trust but at
+the same time social networks are used for trust so suddenly it's a tiny bit
+harder to attack than just showing up like "Hi I'm tom, I'm not a fed". We
+should not assume that the second wave has no vulnerabilities but it seems to
+be resilient against the really stupid obvious ones. Take for instance
+wikileaks, at one point the US government really had it out for that
+organization. They managed to get Assange into relative isolation
+(he can't troll at press conferences anymore) but the wikileaks institution is
+still fairly stable, and that's something which nobody could have imagined 30
+years ago.
+
+Looking back at what turns out to be effective we can start to judge the merit
+of various technologies and we have managed to develop a whole lot of irrelivant
+technology. Some people are going to come away from this and decide that it just
+doesn't matter, an anonymity network is important even if they're the only one
+using it. Masturbation is fun, that's a defining characteristic. But if we want
+to develop technology which has a real impact on society, we're going to need to
+look at the success and failure cases in the past 20 years, or even the past
+2000 years.
+It's pretty clear that sharing is where the real power comes from.
+If you look at bitcoin, it's not using cryptography to keep secrets, it's
+just protecting a common resource, the blockchain.
+The policy of trusting nobody is falling through, in Gnutella there was a
+completely decentralized network but Gnutella lost the standards war to
+Bittorrent which formed communities around the various trackers, and even after
+the actual tracker technology ceased to be relevant the tribalism around sites
+like thepiratebay and eztv remained.
+It seems that among the winners in the past decade, the security model has had a
+heavy dose of "You Aint Gonna Need It". Scope creep can kill a project.
+In security, scope creep turns into debilitating paranoia which is something we
+really don't need at this moment in history.
+
+This is probably going to be a contravercial slide.
+Look, we are living in Interesting Fucking Times. The whole concept of the NSA,
+what makes it so attractive to the US government and what makes it so terrifying
+to people in this room, is rooted in how the world worked 40 years ago, you know
+when nation-states were relevant.
+I feel like the NSA is really the human face on this machine which we've created,
+which we've embedded ourselves inside of, and which is systematically destroying
+all secrecy, privacy and privileged information.
+
+And this brings me to my conclusion. When I started this lecture, I knew I wanted
+to say something contrasting Cypherpunks and Anonymous, I wanted to talk about
+the power of groups and collaborative decent. I had no idea I would end up here.
+I wanted to talk about a zero-knowledge collaborative editor which I developed,
+but at this point I can't convince myself of it's relevance.
+
+The image of a jet turbine is apropos for ending this lecture because this is
+what we are living in today. The same sorts of things which are happening now
+have always been happened but the sheer force and speed of it is something we
+have no historical narrative to compare to. A slightly flawed system is like a
+slightly flawed engine, it's fine until you hit the race track. Today, political
+and economic systems which have worked okay for centuries are ripping themselves
+to pieces in a matter of a few years.
+Building technology to undermine institutions we don't like is really worthless
+right now, mission accomplished and now it's eating everything in sight.
+Something we're not very good at is imagining the infrastructure of the world we
+would really like to live in, not just the parties and free love and shit but the
+actual energy, economics and logistics networks which will back that. This is
+something we're going to have to learn really fucking fast, because as you well
+know, this thing *can* be programmed, and the distinction between a great global
+awakening and nuking ourselves off the planet is going to be made by how well
+we can fucking code.
+
+
+
