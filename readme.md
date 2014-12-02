@@ -11,4 +11,4 @@ Screw Freedom, I want Empowerment
 
 ##Video of the lecture
 
-[https://archive.org/details/cypherpunks_201412]
+https://archive.org/details/cypherpunks_201412
